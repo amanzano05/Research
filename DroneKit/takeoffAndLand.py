@@ -1,6 +1,4 @@
-#hellow kfjksdfbsbf Alfonso Manzano
-text 2
-
+#branch
 from dronekit import connect
 from dronekit import VehicleMode as DroneMode
 import time
